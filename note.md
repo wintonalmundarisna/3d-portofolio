@@ -205,3 +205,13 @@ Kendala :
 
 - [x] **Folder assets dan public**
   - Sama sama berisi gambar
+
+---
+
+echo "# 3d-portofolio" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/wintonalmundarisna/3d-portofolio.git
+git push -u origin main
